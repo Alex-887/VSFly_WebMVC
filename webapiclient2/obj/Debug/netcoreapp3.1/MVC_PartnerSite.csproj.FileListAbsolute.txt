@@ -1,0 +1,338 @@
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\MVC_PartnerSite.exe
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\MVC_PartnerSite.deps.json
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\MVC_PartnerSite.runtimeconfig.json
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\MVC_PartnerSite.runtimeconfig.dev.json
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\MVC_PartnerSite.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\MVC_PartnerSite.pdb
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\MVC_PartnerSite.Views.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\MVC_PartnerSite.Views.pdb
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Project VsFlight 2020\webapiclient2\obj\Debug\netcoreapp3.1\MVC_PartnerSite.RazorAssemblyInfo.cache
+E:\Project VsFlight 2020\webapiclient2\obj\Debug\netcoreapp3.1\MVC_PartnerSite.RazorAssemblyInfo.cs
+E:\Project VsFlight 2020\webapiclient2\obj\Debug\netcoreapp3.1\MVC_PartnerSite.AssemblyInfoInputs.cache
+E:\Project VsFlight 2020\webapiclient2\obj\Debug\netcoreapp3.1\MVC_PartnerSite.AssemblyInfo.cs
+E:\Project VsFlight 2020\webapiclient2\obj\Debug\netcoreapp3.1\MVC_PartnerSite.TagHelpers.input.cache
+E:\Project VsFlight 2020\webapiclient2\obj\Debug\netcoreapp3.1\MVC_PartnerSite.TagHelpers.output.cache
+E:\Project VsFlight 2020\webapiclient2\obj\Debug\netcoreapp3.1\MVC_PartnerSite.RazorCoreGenerate.cache
+E:\Project VsFlight 2020\webapiclient2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Project VsFlight 2020\webapiclient2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Project VsFlight 2020\webapiclient2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Project VsFlight 2020\webapiclient2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Project VsFlight 2020\webapiclient2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Project VsFlight 2020\webapiclient2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Project VsFlight 2020\webapiclient2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Project VsFlight 2020\webapiclient2\obj\Debug\netcoreapp3.1\MVC_PartnerSite.RazorTargetAssemblyInfo.cache
+E:\Project VsFlight 2020\webapiclient2\obj\Debug\netcoreapp3.1\MVC_PartnerSite.RazorTargetAssemblyInfo.cs
+E:\Project VsFlight 2020\webapiclient2\obj\Debug\netcoreapp3.1\MVC_PartnerSite.Views.pdb
+E:\Project VsFlight 2020\webapiclient2\obj\Debug\netcoreapp3.1\MVC_PartnerSite.csproj.CopyComplete
+E:\Project VsFlight 2020\webapiclient2\obj\Debug\netcoreapp3.1\staticwebassets\MVC_PartnerSite.StaticWebAssets.Manifest.cache
+E:\Project VsFlight 2020\webapiclient2\obj\Debug\netcoreapp3.1\staticwebassets\MVC_PartnerSite.StaticWebAssets.xml
+E:\Project VsFlight 2020\webapiclient2\obj\Debug\netcoreapp3.1\MVC_PartnerSite.dll
+E:\Project VsFlight 2020\webapiclient2\obj\Debug\netcoreapp3.1\MVC_PartnerSite.pdb
+E:\Project VsFlight 2020\webapiclient2\obj\Debug\netcoreapp3.1\MVC_PartnerSite.genruntimeconfig.cache
+E:\Project VsFlight 2020\webapiclient2\obj\Debug\netcoreapp3.1\MVC_PartnerSite.csprojAssemblyReference.cache
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Project VsFlight 2020\webapiclient2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Project VsFlight 2020\webapiclient2\obj\Debug\netcoreapp3.1\MVC_PartnerSite.csproj.CoreCompileInputs.cache
+E:\Project VsFlight 2020\webapiclient2\obj\Debug\netcoreapp3.1\MVC_PartnerSite.MvcApplicationPartsAssemblyInfo.cache
+E:\Project VsFlight 2020\webapiclient2\obj\Debug\netcoreapp3.1\Razor\Views\Flights\Create.cshtml.g.cs
+E:\Project VsFlight 2020\webapiclient2\obj\Debug\netcoreapp3.1\Razor\Views\Flights\Delete.cshtml.g.cs
+E:\Project VsFlight 2020\webapiclient2\obj\Debug\netcoreapp3.1\Razor\Views\Flights\Details.cshtml.g.cs
+E:\Project VsFlight 2020\webapiclient2\obj\Debug\netcoreapp3.1\Razor\Views\Flights\Edit.cshtml.g.cs
+E:\Project VsFlight 2020\webapiclient2\obj\Debug\netcoreapp3.1\Razor\Views\Flights\Index.cshtml.g.cs
+E:\Project VsFlight 2020\webapiclient2\obj\Debug\netcoreapp3.1\Razor\Views\Passengers\Create.cshtml.g.cs
+E:\Project VsFlight 2020\webapiclient2\obj\Debug\netcoreapp3.1\Razor\Views\Passengers\Delete.cshtml.g.cs
+E:\Project VsFlight 2020\webapiclient2\obj\Debug\netcoreapp3.1\Razor\Views\Passengers\Details.cshtml.g.cs
+E:\Project VsFlight 2020\webapiclient2\obj\Debug\netcoreapp3.1\Razor\Views\Passengers\Edit.cshtml.g.cs
+E:\Project VsFlight 2020\webapiclient2\obj\Debug\netcoreapp3.1\Razor\Views\Passengers\Index.cshtml.g.cs
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\obj\Debug\netcoreapp3.1\MVC_PartnerSite.csprojAssemblyReference.cache
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\obj\Debug\netcoreapp3.1\MVC_PartnerSite.csproj.CoreCompileInputs.cache
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\obj\Debug\netcoreapp3.1\MVC_PartnerSite.MvcApplicationPartsAssemblyInfo.cache
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\obj\Debug\netcoreapp3.1\MVC_PartnerSite.RazorAssemblyInfo.cache
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\obj\Debug\netcoreapp3.1\MVC_PartnerSite.RazorAssemblyInfo.cs
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\obj\Debug\netcoreapp3.1\MVC_PartnerSite.AssemblyInfoInputs.cache
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\obj\Debug\netcoreapp3.1\MVC_PartnerSite.AssemblyInfo.cs
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\obj\Debug\netcoreapp3.1\MVC_PartnerSite.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\obj\Debug\netcoreapp3.1\MVC_PartnerSite.pdb
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\obj\Debug\netcoreapp3.1\MVC_PartnerSite.TagHelpers.input.cache
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\obj\Debug\netcoreapp3.1\MVC_PartnerSite.TagHelpers.output.cache
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\obj\Debug\netcoreapp3.1\MVC_PartnerSite.RazorCoreGenerate.cache
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\obj\Debug\netcoreapp3.1\Razor\Views\Flights\Index.cshtml.g.cs
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\obj\Debug\netcoreapp3.1\MVC_PartnerSite.RazorTargetAssemblyInfo.cache
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\obj\Debug\netcoreapp3.1\MVC_PartnerSite.RazorTargetAssemblyInfo.cs
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\appsettings.json
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\MVC_PartnerSite.exe
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\MVC_PartnerSite.deps.json
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\MVC_PartnerSite.runtimeconfig.json
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\MVC_PartnerSite.runtimeconfig.dev.json
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\MVC_PartnerSite.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\MVC_PartnerSite.pdb
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\MVC_PartnerSite.Views.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\MVC_PartnerSite.Views.pdb
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\obj\Debug\netcoreapp3.1\Razor\Views\Flights\Buy.cshtml.g.cs
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\obj\Debug\netcoreapp3.1\MVC_PartnerSite.Views.pdb
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\obj\Debug\netcoreapp3.1\MVC_PartnerSite.csproj.CopyComplete
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\obj\Debug\netcoreapp3.1\staticwebassets\MVC_PartnerSite.StaticWebAssets.Manifest.cache
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\obj\Debug\netcoreapp3.1\staticwebassets\MVC_PartnerSite.StaticWebAssets.xml
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\webapiclient2\obj\Debug\netcoreapp3.1\MVC_PartnerSite.genruntimeconfig.cache

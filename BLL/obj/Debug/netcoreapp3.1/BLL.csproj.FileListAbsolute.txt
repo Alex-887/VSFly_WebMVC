@@ -1,0 +1,13 @@
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\BLL\bin\Debug\netcoreapp3.1\BLL.exe
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\BLL\bin\Debug\netcoreapp3.1\BLL.deps.json
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\BLL\bin\Debug\netcoreapp3.1\BLL.runtimeconfig.json
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\BLL\bin\Debug\netcoreapp3.1\BLL.runtimeconfig.dev.json
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\BLL\bin\Debug\netcoreapp3.1\BLL.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\BLL\bin\Debug\netcoreapp3.1\BLL.pdb
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.csprojAssemblyReference.cache
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.csproj.CoreCompileInputs.cache
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfoInputs.cache
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.AssemblyInfo.cs
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.dll
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.pdb
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\BLL\obj\Debug\netcoreapp3.1\BLL.genruntimeconfig.cache

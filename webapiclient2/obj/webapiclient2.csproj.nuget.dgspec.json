@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alex\\source\\repos\\webapiclient2\\webapiclient2\\webapiclient2.csproj": {}
+    "E:\\Project VsFlight 2020\\webapiclient2\\webapiclient2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alex\\source\\repos\\webapiclient2\\webapiclient2\\webapiclient2.csproj": {
+    "E:\\Project VsFlight 2020\\webapiclient2\\webapiclient2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alex\\source\\repos\\webapiclient2\\webapiclient2\\webapiclient2.csproj",
+        "projectUniqueName": "E:\\Project VsFlight 2020\\webapiclient2\\webapiclient2.csproj",
         "projectName": "webapiclient2",
-        "projectPath": "C:\\Users\\Alex\\source\\repos\\webapiclient2\\webapiclient2\\webapiclient2.csproj",
+        "projectPath": "E:\\Project VsFlight 2020\\webapiclient2\\webapiclient2.csproj",
         "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alex\\source\\repos\\webapiclient2\\webapiclient2\\obj\\",
+        "outputPath": "E:\\Project VsFlight 2020\\webapiclient2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -69,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
