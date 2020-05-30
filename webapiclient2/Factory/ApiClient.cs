@@ -46,6 +46,7 @@ namespace webapiclient2
             var data = await response.Content.ReadAsStringAsync();
             return JsonConvert.DeserializeObject<Message<T>>(data);
         }
+
         private async Task<Message<T1>> PostAsync<T1, T2>(Uri requestUrl, T2 content)
         {
             var response = await _httpClient.PostAsync(requestUrl.ToString(), CreateHttpContent<T2>(content));
@@ -53,6 +54,40 @@ namespace webapiclient2
             var data = await response.Content.ReadAsStringAsync();
             return JsonConvert.DeserializeObject<Message<T1>>(data);
         }
+
+
+
+
+
+        //---------------------------------PUT
+        /*
+        private async Task<Message<T>> PutAsync<T>(Uri requestUrl, T content)
+        {
+            var response = await _httpClient.PutAsync(requestUrl.ToString(), CreateHttpContent<T>(content));
+            response.EnsureSuccessStatusCode();
+            var data = await response.Content.ReadAsStringAsync();
+            return JsonConvert.DeserializeObject<Message<T>>(data);
+        }
+
+
+        private async Task<Message<T1>> PutAsync<T1, T2>(Uri requestUrl, T2 content)
+        {
+            var response = await _httpClient.PutAsync(requestUrl.ToString(), CreateHttpContent<T2>(content));
+            response.EnsureSuccessStatusCode();
+            var data = await response.Content.ReadAsStringAsync();
+            return JsonConvert.DeserializeObject<Message<T1>>(data);
+        }
+        */
+
+        private async Task<Message<T>> PutAsync<T>(Uri requestUrl, int v)
+        {
+            var response = await _httpClient.PutAsync(requestUrl.ToString(), CreateHttpContent<T>(v));
+            response.EnsureSuccessStatusCode();
+            var data = await response.Content.ReadAsStringAsync();
+            return JsonConvert.DeserializeObject<Message<T>>(data);
+        }
+
+
 
         private Uri CreateRequestUri(string relativePath, string queryString = "")
         {
@@ -68,6 +103,14 @@ namespace webapiclient2
             HttpContent stringContent = new StringContent(json, Encoding.UTF8, "application/json");
             return stringContent;
         }
+
+        private HttpContent CreateHttpContent<T>(int content)
+        {
+            var json = JsonConvert.SerializeObject(content);
+            HttpContent stringContent = new StringContent(json, Encoding.UTF8, "application/json");
+            return stringContent;
+        }
+
 
         private static JsonSerializerSettings MicrosoftDateFormatSettings
         {

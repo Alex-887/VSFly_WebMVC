@@ -1,0 +1,8 @@
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csprojAssemblyReference.cache
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+E:\ProgrammingWithComponents\AP_AB_VsFlyWebAPI\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+E:\ProgrammingWithComponents\VsFly_MVC\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csprojAssemblyReference.cache
+E:\ProgrammingWithComponents\VsFly_MVC\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\ProgrammingWithComponents\VsFly_MVC\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+E:\ProgrammingWithComponents\VsFly_MVC\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs

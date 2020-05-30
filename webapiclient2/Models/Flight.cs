@@ -17,7 +17,7 @@ namespace webapiclient2.Models
         public DateTime Date { get; set; }
         public int Seats { get; set; }
         public decimal Price { get; set; }
-        public int SeatsAvaiable { get; set; }
+        public int SeatsAvailable { get; set; }
     }
     
 }

@@ -4,10 +4,9 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+<h1>Flights</h1>
 
-<p>
-    <a asp-action="Create">Create New</a>
+
 </p>
 <table class="table">
     <thead>
@@ -22,10 +21,10 @@
                 @Html.DisplayNameFor(model => model.Date)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Seats)
+                Seats left
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Price)
+                Base price
             </th>
             <th></th>
         </tr>
@@ -43,13 +42,13 @@
                 @Html.DisplayFor(modelItem => item.Date)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Seats)
+                @Html.DisplayFor(modelItem => item.SeatsAvailable)
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Price)
             </td>
             <td>
-                <a asp-action="Buy" asp-route-id="@item.FlightNo">Buy</a> |
+                <a asp-action="Buy" asp-route-id="@item.FlightNo">Buy this ticket</a> 
             </td>
         </tr>
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\ProgrammingWithComponents\\AP_AB_VsFlyWebAPI\\webapiclient2\\MVC_PartnerSite.csproj": {}
+    "E:\\ProgrammingWithComponents\\VSFly_MVC_V2\\webapiclient2\\MVC_PartnerSite.csproj": {}
   },
   "projects": {
-    "E:\\ProgrammingWithComponents\\AP_AB_VsFlyWebAPI\\webapiclient2\\MVC_PartnerSite.csproj": {
+    "E:\\ProgrammingWithComponents\\VSFly_MVC_V2\\webapiclient2\\MVC_PartnerSite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\ProgrammingWithComponents\\AP_AB_VsFlyWebAPI\\webapiclient2\\MVC_PartnerSite.csproj",
+        "projectUniqueName": "E:\\ProgrammingWithComponents\\VSFly_MVC_V2\\webapiclient2\\MVC_PartnerSite.csproj",
         "projectName": "MVC_PartnerSite",
-        "projectPath": "E:\\ProgrammingWithComponents\\AP_AB_VsFlyWebAPI\\webapiclient2\\MVC_PartnerSite.csproj",
+        "projectPath": "E:\\ProgrammingWithComponents\\VSFly_MVC_V2\\webapiclient2\\MVC_PartnerSite.csproj",
         "packagesPath": "C:\\Users\\Alex\\.nuget\\packages\\",
-        "outputPath": "E:\\ProgrammingWithComponents\\AP_AB_VsFlyWebAPI\\webapiclient2\\obj\\",
+        "outputPath": "E:\\ProgrammingWithComponents\\VSFly_MVC_V2\\webapiclient2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -42,6 +42,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[3.1.4, )"
