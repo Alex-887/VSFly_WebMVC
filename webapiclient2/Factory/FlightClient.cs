@@ -14,9 +14,7 @@ namespace webapiclient2
         //GET FLIGHTS = DISPLAY ALL THE FLIGHTS
         //GET FLIGHT(ID) = DETAIL OF A CHOSEN FLIGHT
 
-
         readonly string uriFlight = "https://localhost:44378/api/Flights/";
-
 
         public async Task<List<Flight>> GetFlights()
         {

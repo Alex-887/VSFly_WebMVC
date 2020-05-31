@@ -10,7 +10,6 @@ namespace webapiclient2
     {
 
         //WHEN BUYING A TICKET, A NEW PASSENGER IS CREATED
-
         readonly string baseuri = "https://localhost:44378/api/Passengers";
 
         public async Task<Message<Passenger>> SavePassenger(Passenger model)
@@ -19,9 +18,6 @@ namespace webapiclient2
 
             return await PostAsync<Passenger>(requestUrl, model);
         }
-
-
-
 
     }
 }
