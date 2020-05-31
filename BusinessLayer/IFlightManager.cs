@@ -5,7 +5,7 @@ namespace BusinessLayer
     public interface IFlightManager
     {
 
-        int BuyTicket(int FlightNo, int BookingNo, decimal SalePrice);
+        int BuyTicket(int FlightNo, decimal SalePrice);
 
 
     }

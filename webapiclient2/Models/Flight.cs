@@ -18,6 +18,7 @@ namespace webapiclient2.Models
         public int Seats { get; set; }
         public decimal Price { get; set; }
         public int SeatsAvailable { get; set; }
+
     }
     
 }

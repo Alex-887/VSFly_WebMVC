@@ -10,7 +10,6 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using webapiclient2.Models;
 using Microsoft.EntityFrameworkCore;
-
 namespace webapiclient2
 {
     public class Startup
@@ -27,6 +26,7 @@ namespace webapiclient2
         {
             services.AddControllersWithViews();
             services.Configure<MySettingsModel>(Configuration.GetSection("MySettings"));
+
 
 
         }
@@ -55,7 +55,7 @@ namespace webapiclient2
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Flights}/{action=Index}/{id?}");
+                    pattern: "{controller=Flights}/{action=Index}/{id?}/");
             });
         }
     }

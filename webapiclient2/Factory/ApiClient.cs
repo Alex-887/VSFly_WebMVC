@@ -25,9 +25,8 @@ namespace webapiclient2
             _httpClient = new HttpClient();
         }
 
-        /// <summary>  
-        /// Common method for making GET calls  
-        /// </summary>  
+
+        //-----------GET-----------
         private async Task<T> GetAsync<T>(Uri requestUrl)
         {
             var response = await _httpClient.GetAsync(requestUrl, HttpCompletionOption.ResponseHeadersRead);
@@ -36,9 +35,8 @@ namespace webapiclient2
             return JsonConvert.DeserializeObject<T>(data);
         }
 
-        /// <summary>  
-        /// Common method for making POST calls  
-        /// </summary>  
+
+        //-----------POST-----------
         private async Task<Message<T>> PostAsync<T>(Uri requestUrl, T content)
         {
             var response = await _httpClient.PostAsync(requestUrl.ToString(), CreateHttpContent<T>(content));
@@ -47,45 +45,13 @@ namespace webapiclient2
             return JsonConvert.DeserializeObject<Message<T>>(data);
         }
 
-        private async Task<Message<T1>> PostAsync<T1, T2>(Uri requestUrl, T2 content)
-        {
-            var response = await _httpClient.PostAsync(requestUrl.ToString(), CreateHttpContent<T2>(content));
-            response.EnsureSuccessStatusCode();
-            var data = await response.Content.ReadAsStringAsync();
-            return JsonConvert.DeserializeObject<Message<T1>>(data);
-        }
-
-
-
-
-
-        //---------------------------------PUT
-        /*
-        private async Task<Message<T>> PutAsync<T>(Uri requestUrl, T content)
-        {
-            var response = await _httpClient.PutAsync(requestUrl.ToString(), CreateHttpContent<T>(content));
-            response.EnsureSuccessStatusCode();
-            var data = await response.Content.ReadAsStringAsync();
-            return JsonConvert.DeserializeObject<Message<T>>(data);
-        }
-
-
-        private async Task<Message<T1>> PutAsync<T1, T2>(Uri requestUrl, T2 content)
-        {
-            var response = await _httpClient.PutAsync(requestUrl.ToString(), CreateHttpContent<T2>(content));
-            response.EnsureSuccessStatusCode();
-            var data = await response.Content.ReadAsStringAsync();
-            return JsonConvert.DeserializeObject<Message<T1>>(data);
-        }
-        */
-
-        private async Task<Message<T>> PutAsync<T>(Uri requestUrl, int v)
-        {
-            var response = await _httpClient.PutAsync(requestUrl.ToString(), CreateHttpContent<T>(v));
-            response.EnsureSuccessStatusCode();
-            var data = await response.Content.ReadAsStringAsync();
-            return JsonConvert.DeserializeObject<Message<T>>(data);
-        }
+        //private async Task<Message<T1>> PostAsync<T1, T2>(Uri requestUrl, T2 content)
+        //{
+        //    var response = await _httpClient.PostAsync(requestUrl.ToString(), CreateHttpContent<T2>(content));
+        //    response.EnsureSuccessStatusCode();
+        //    var data = await response.Content.ReadAsStringAsync();
+        //    return JsonConvert.DeserializeObject<Message<T1>>(data);
+        //}
 
 
 
@@ -104,12 +70,12 @@ namespace webapiclient2
             return stringContent;
         }
 
-        private HttpContent CreateHttpContent<T>(int content)
-        {
-            var json = JsonConvert.SerializeObject(content);
-            HttpContent stringContent = new StringContent(json, Encoding.UTF8, "application/json");
-            return stringContent;
-        }
+        //private HttpContent CreateHttpContent<T>(int content)
+        //{
+        //    var json = JsonConvert.SerializeObject(content);
+        //    HttpContent stringContent = new StringContent(json, Encoding.UTF8, "application/json");
+        //    return stringContent;
+        //}
 
 
         private static JsonSerializerSettings MicrosoftDateFormatSettings

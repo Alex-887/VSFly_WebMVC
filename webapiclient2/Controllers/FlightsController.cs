@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Diagnostics;
+using System.Globalization;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
@@ -48,151 +49,61 @@ namespace MVC_PartnerSite.Controllers
 
         public IActionResult Buy()
         {
+
             return View();
+
         }
+
 
         //ADD A PASSENGER
         //UPDATE THE NUMBER OF THE SEATS
         //CREATE A BOOKING WITH FLIGHT NO AND ASSIGN IT TO THE RIGHT CLIENT
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Buy([Bind("PassengerId,Name,Firstname,FK_FlightNo,SalePrice")] Passenger passenger)
+        public async Task<IActionResult> Buy([Bind("PassengerId,Name,Firstname,FK_FlightNo,SalePrice")] Passenger passenger, decimal price, int id, string name, string firstname )
         {
+
             if (ModelState.IsValid)
             {
-               
+
+                passenger.SalePrice = price;
+                passenger.FK_FlightNo = id;
+                passenger.Firstname = firstname;
+                passenger.Name = name;
+
                 var data = await ApiClientFactory.Instance.SavePassenger(passenger);
+
+
                 return RedirectToAction(nameof(Index));
 
             }
             return View(passenger);
         }
 
-
-
-
-
-/*
      
-        // GET: Flights/Edit/5
-        public async Task<IActionResult> Edit(int id)
+
+
+        // GET: Flights/Details/5
+        public async Task<IActionResult> Details(int id)
         {
             if (id == -1)
             {
                 return NotFound();
             }
 
+
             var data = await ApiClientFactory.Instance.GetFlight(id);
+
+            ViewBag.price = data.Price;
+
             if (data == null)
             {
                 return NotFound();
             }
+
             return View(data);
         }
 
 
-        
-        // POST: Flights/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to, for 
-        // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("FlightNo,Departure,Destination,Date,Seats,Price")] Flight flight)
-        {
-            if (id != flight.FlightNo)
-            {
-                return NotFound();
-            }
-
-            if (ModelState.IsValid)
-            {
-                try
-                {
-                    _context.Update(flight);
-                    await _context.SaveChangesAsync();
-                }
-
-                return RedirectToAction(nameof(Index));
-            }
-            return View(flight);
-        }
-
-
-        
-     // GET: Flights/Delete/5
-     public async Task<IActionResult> Delete(int? id)
-     {
-         if (id == null)
-         {
-             return NotFound();
-         }
-
-         var flight = await _context.Flight
-             .FirstOrDefaultAsync(m => m.FlightNo == id);
-         if (flight == null)
-         {
-             return NotFound();
-         }
-
-         return View(flight);
-     }
-
-     // POST: Flights/Delete/5
-     [HttpPost, ActionName("Delete")]
-     [ValidateAntiForgeryToken]
-     public async Task<IActionResult> DeleteConfirmed(int id)
-     {
-         var flight = await _context.Flight.FindAsync(id);
-         _context.Flight.Remove(flight);
-         await _context.SaveChangesAsync();
-         return RedirectToAction(nameof(Index));
-     }
-
-     private bool FlightExists(int id)
-     {
-         return _context.Flight.Any(e => e.FlightNo == id);
-     }
-
-
-
-      // GET: Flights/Delete/5
-     public async Task<IActionResult> Delete(int? id)
-     {
-         if (id == null)
-         {
-             return NotFound();
-         }
-
-
-         var data = await ApiClientFactory.Instance.DeleteFlight(id);
-
-
-
-
-         if (flight == null)
-         {
-             return NotFound();
-         }
-
-         return View(flight);
-     }
-
-     // POST: Flights/Delete/5
-     [HttpPost, ActionName("Delete")]
-     [ValidateAntiForgeryToken]
-     public async Task<IActionResult> DeleteConfirmed(int id)
-     {
-         var flight = await _context.Flight.FindAsync(id);
-         _context.Flight.Remove(flight);
-         await _context.SaveChangesAsync();
-         return RedirectToAction(nameof(Index));
-     }
-
-     private bool FlightExists(int id)
-     {
-         return _context.Flight.Any(e => e.FlightNo == id);
-     }
-
- */
     }
 }

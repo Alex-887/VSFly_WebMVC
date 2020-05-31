@@ -1,0 +1,73 @@
+﻿@model webapiclient2.Models.Flight
+
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details of the flight</h1>
+
+<div>
+    <h4>Flight number @Html.DisplayFor(model => model.FlightNo) </h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Departure)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Departure)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Destination)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Destination)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Date)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Date)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Seats)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Seats)
+        </dd>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.SeatsAvailable)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.SeatsAvailable)
+        </dd>
+        <dt class="col-sm-2">
+          Price to pay :
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Price)
+        </dd>
+
+    </dl>
+</div>
+
+
+
+
+<div>
+
+    @using (Html.BeginForm("Buy", "Flights", new { id = Model.FlightNo, price = Model.Price}))
+    {
+        <label for="firstname">First name:</label><br>
+        <input type="text" id="firstname"  required="required" name="firstname" value=""><br>
+        <label for="name">Last name:</label><br>
+        <input type="text" id="name" required="required" name="name" value=""><br><br>
+
+
+        <input type="submit" value="Buy this ticket" />
+
+    }
+
+    <a asp-action="Index">Back to List</a>
+</div>
