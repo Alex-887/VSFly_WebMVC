@@ -509,8 +509,6 @@ E:\ProgrammingWithComponents\VsFly_MVC\webapiclient2\obj\Debug\netcoreapp3.1\sta
 E:\ProgrammingWithComponents\VsFly_MVC\webapiclient2\obj\Debug\netcoreapp3.1\MVC_PartnerSite.dll
 E:\ProgrammingWithComponents\VsFly_MVC\webapiclient2\obj\Debug\netcoreapp3.1\MVC_PartnerSite.pdb
 E:\ProgrammingWithComponents\VsFly_MVC\webapiclient2\obj\Debug\netcoreapp3.1\MVC_PartnerSite.genruntimeconfig.cache
-E:\ProgrammingWithComponents\VSFly_MVC_V2\webapiclient2\obj\Debug\netcoreapp3.1\MVC_PartnerSite.csproj.CoreCompileInputs.cache
-E:\ProgrammingWithComponents\VSFly_MVC_V2\webapiclient2\obj\Debug\netcoreapp3.1\MVC_PartnerSite.MvcApplicationPartsAssemblyInfo.cache
 E:\ProgrammingWithComponents\VSFly_MVC_V2\webapiclient2\obj\Debug\netcoreapp3.1\MVC_PartnerSite.RazorAssemblyInfo.cache
 E:\ProgrammingWithComponents\VSFly_MVC_V2\webapiclient2\obj\Debug\netcoreapp3.1\MVC_PartnerSite.RazorAssemblyInfo.cs
 E:\ProgrammingWithComponents\VSFly_MVC_V2\webapiclient2\obj\Debug\netcoreapp3.1\MVC_PartnerSite.AssemblyInfoInputs.cache
@@ -676,4 +674,6 @@ E:\ProgrammingWithComponents\VSFly_MVC_V2\webapiclient2\obj\Debug\netcoreapp3.1\
 E:\ProgrammingWithComponents\VSFly_MVC_V2\webapiclient2\obj\Debug\netcoreapp3.1\staticwebassets\MVC_PartnerSite.StaticWebAssets.xml
 E:\ProgrammingWithComponents\VSFly_MVC_V2\webapiclient2\obj\Debug\netcoreapp3.1\MVC_PartnerSite.genruntimeconfig.cache
 E:\ProgrammingWithComponents\VSFly_MVC_V2\webapiclient2\obj\Debug\netcoreapp3.1\Razor\Views\Flights\Details.cshtml.g.cs
+E:\ProgrammingWithComponents\VSFly_MVC_V2\webapiclient2\obj\Debug\netcoreapp3.1\MVC_PartnerSite.csproj.CoreCompileInputs.cache
+E:\ProgrammingWithComponents\VSFly_MVC_V2\webapiclient2\obj\Debug\netcoreapp3.1\MVC_PartnerSite.MvcApplicationPartsAssemblyInfo.cache
 E:\ProgrammingWithComponents\VSFly_MVC_V2\webapiclient2\obj\Debug\netcoreapp3.1\MVC_PartnerSite.csprojAssemblyReference.cache
