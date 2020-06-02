@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace webapiclient2.Models
 {
@@ -19,6 +16,6 @@ namespace webapiclient2.Models
         public decimal Price { get; set; }
         public int SeatsAvailable { get; set; }
 
-    }
+        }
     
 }
